@@ -9,7 +9,7 @@ This repository contains teaching materials for the **Secondary Data in Educatio
 - **Academic Year:** 2023-24
 - **Term:** Epiphany (Spring)
 - **Module Convenor:** Prof. Nadia Siddiqui
-- **Module Tutor:** Prof. Stephen Gorard
+- **Module Tutor:** Prof. Stephen Gorard, Dr. Yiyang Gao, Dr. Keji Fan
 
 ## Course Description
 This module introduces students to the use of existing secondary datasets in educational research. It covers the ethical imperative of utilizing available large-scale, independent data before collecting new primary data, and explores how advanced technologies have made these datasets increasingly accessible. Students will learn to evaluate the strengths and limitations of research designs using secondary datasets and develop skills to critique published research based on these resources.
